@@ -33,3 +33,4 @@ Tests/CodeGen_MonoGameForms_FullCodegen/Content/EventExport/gum_events.json
 /Tests/CodeGen_MonoGameForms_ByReference/.vscode
 Tests/CodeGen_MonoGameForms_ByReference/app.manifest
 Tests/CodeGen_MonoGameForms_ByReference/Content/GumProject/EventExport/gum_events.json
+/Tests/CodeOutputPlugin.SnapshotTests/Content/GumProject
